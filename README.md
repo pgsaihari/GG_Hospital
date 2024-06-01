@@ -1,7 +1,7 @@
 
 GG hospital assignment
 
-
+url https://pgsaihari.github.io/GG_Hospital/ (recommended screensize 75-80%)
 ### Screenshots
 
 
