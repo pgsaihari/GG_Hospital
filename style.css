@@ -233,7 +233,7 @@ a{
   font-size: 28px;
   width: 10%;
   position: relative;
-  left: 79px;
+  left: 28px;
 }
 .department-section .department-header .department-arrow-icon {
   padding-right: 62px;
@@ -425,7 +425,7 @@ a{
   height: 960px;
   background: #eaf2ff;
   position: absolute;
-  top: 4140px;
+  top: 4032px;
   z-index: -1;
 }
 .news-letter {
@@ -518,7 +518,7 @@ a{
 
 footer{
   position: relative;
-  top:375px;
+  top:375px; //338
   padding: 50px 125px 20px 110px;
 }
 footer .footer-upper{
