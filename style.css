@@ -148,6 +148,10 @@ nav a.home {
   text-decoration: none;
   color: black;
 }
+a{
+  text-decoration: none;
+  
+}
 .hero .hero-image-content .hero-appointment .doctor-link {
   text-decoration: underline;
   margin-top: 15px;
